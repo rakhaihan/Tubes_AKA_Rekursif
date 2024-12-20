@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1734702217 source:d:\education\university\telkom\mulai kuliah\smt 3\aka\tubes\1 a paling fix\algoritma\rekursif\rekursif\main.cpp
+	<windows.h>
+	<vector>
+	<string>
+	<sstream>
+	<iomanip>
+	<iostream>
+
+1584205424 source:d:\education\university\telkom\mulai kuliah\smt 3\aka\tubes\1 a paling fix\algoritma\rekursif\rekursif\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 d:\education\university\telkom\mulai kuliah\smt 3\aka\tubes\1 a paling fix\algoritma\rekursif\rekursif\resource.h
+
